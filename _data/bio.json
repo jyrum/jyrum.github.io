@@ -10,16 +10,16 @@
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jyrum", "url": "http://github.com/jyrum" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "jyrumbohol", "url": "http://linkedin.com/in/jyrumbohol" },
+      { "network": "", "username": "", "url": "" },
+      { "network": "", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Cybersecurity" },
+    { "name": "Game Design" },
+    { "name": "Machine Learning" },
     { "name": "3D Graphics" }
   ],
   "skills": [

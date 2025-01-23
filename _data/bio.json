@@ -18,9 +18,7 @@
   "interests": [
     { "name": "Artificial Intelligence" },
     { "name": "Cybersecurity" },
-    { "name": "Game Design" },
-    { "name": "" },
-    { "name": "" }
+    { "name": "Game Design" }
   ],
   "skills": [
     {
@@ -29,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub", "", "", "" ]
+      "keywords": [ "Windows", "Git/GitHub"]
     }
   ],
   "education": [

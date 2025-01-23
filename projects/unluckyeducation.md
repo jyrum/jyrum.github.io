@@ -10,7 +10,7 @@ labels:
   - Research
 summary: "Research proposal on disadvantaged children"
 ---
-<img class="img-fluid" src="projects/palolo.png">
+<img class="img-fluid" src="palolo.png">
 
 This research proposal analyzed the relationship between children that live in disadvantaged neighborhoods and lack of success in education. In the state of Hawaii, the cost of living is significantly higher than other places in the world, making it one of the most expensive places to live. The research done in this project helps determine the connection between disadvantaged children in Hawaii and how well they do in school. The research done in this proposal can be used as evidence to prove that children that are born into financially struggling families struggle in their education. They do not do as well as their peers around them because of things such as mental problems and their lack of resources. By assisting children, they will then help others as well. If we give back to disadvantaged children by giving them the means to a good education, then their lives will change greatly and they will live better lives in the future. 
 

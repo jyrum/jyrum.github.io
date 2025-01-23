@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Origin Behind Why I Spend Hours Looking At A Screen Because Of One Semicolon"
+title: "The origin behind why I spend hours looking at a screen because of one missing semicolon"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
 published: true

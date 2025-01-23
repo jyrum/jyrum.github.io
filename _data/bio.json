@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Jyrum",
+    "name": "Jyrum Bohol",
     "label": "Student",
     "picture": "https://github.com/jyrum.png",
     "email": "jyrum@hawaii.edu",
     "phone": "",
     "website": "https://jyrum.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in May, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jyrum", "url": "http://github.com/jyrum" },
@@ -19,25 +19,25 @@
     { "name": "Artificial Intelligence" },
     { "name": "Cybersecurity" },
     { "name": "Game Design" },
-    { "name": "Machine Learning" },
+    { "name": "" },
     { "name": "" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/GitHub", "", "", "" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +45,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Great Harvest Bread Co.",
+      "position": "Bakery Clerk",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Supporting the bakers and other workers with a large variety of tasks.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Working the cash register and creating sandwiches for orders",
+        "Prepping for the sandwich station and creating doughs and other sweets mixes",
+        "Bagging breads, muffins, and cookies to place them on shelves for purchase"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Paradise Leis",
+      "position": "Lei Shop Worker",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Assisted shop owners with packaging orders, creating boxes, and gently handling the leis",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Carefully packaging leis for their journey to their new owners",
+        "Making and tying leis when necessary"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "KA‘I Programs",
+      "website": "https://www.iolani.org/school/kai-programs",
+      "position": "Community Assistant",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Participated in several cleanups in the Palolo community",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helped out planting, clearing out greenery, and dealing with waste",
+        "Clearing out invasive fish from streams"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Hawaii B+ State Scholarship",
+      "date": "2023-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarship awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarship awarded to incoming freshman, recognizing their academic strength and dedication towards a four year degree"
     }
   ],
   "references": [

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank.png
+image: img/calandar.png
 title: "Date and Time Converter"
 date: 2024
 published: true
@@ -9,7 +9,7 @@ labels:
   - Java
 summary: "This is an application that converts any amount of seconds to date and time"
 ---
-<img class="img-fluid" src="bankpt2.jpg">
+<img class="img-fluid" src="clock.png">
 
 This function takes two parameters, seconds and a boolean leapYear. The seconds parameter takes in any amount of seconds (as long as it is less than the amount of seconds in a year and leapYear respectively). The leapYear parameter is true if it is a leap year and false if it is not. This is important because if it is a leap year, it changes the date and time since there are more seconds in the year. In order to compute the date and time, there are a bunch of arithmetic operations being used. 
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank.png
+image: img/Unlucky Education.png
 title: "Unlucky Education"
 date: 2023
 published: true

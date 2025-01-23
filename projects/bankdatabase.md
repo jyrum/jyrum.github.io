@@ -10,7 +10,7 @@ labels:
   - C++
 summary: "This is a banking database that I made for my ICS 212 class"
 ---
-<img class="img-fluid" src="..img/bankpt2.jpg">
+<img class="img-fluid" src="bankpt2.jpg">
 
 These projects were the two big projects that I had to complete in my Program Structures class. These projects spanned over a large majority of the semester. Completing this project included completing many different small assignments throughout the semester, leading up to the culmination of all of the information for the final result. The first project was the programming of this banking database in the language C. The second project was converting the same exact banking database into C++. 
 

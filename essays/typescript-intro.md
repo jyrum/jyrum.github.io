@@ -10,11 +10,13 @@ labels:
   - Coding
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Delorean.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ts.png">
 
 ## Opinion on TypeScript
 
-Before beginning to learn JavaScript and TypeScript
+Before beginning to learn JavaScript and TypeScript, I knew languages such as Java, Python, C and C++. I had no prior experience with JavaScript or TypeScript but as I started learning these languages, I actually found that I enjoyed them. The notation for giving types to variables somehow itches my brain in the right way. It looks good to me and it makes sense. 
+
+For example, as shown below:
 
 Fast forward to my first semester of college as a computer science major, I found it to be pretty difficult. While others had taken a programming course in high school or programmed as a hobby on the side, I was walking in blind. Although it was hard, I found it to be pretty interesting. I started to think about the world around me and how anything technology related had to coded by someone. It is fascinating to think about to this day. 
 

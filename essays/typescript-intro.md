@@ -14,19 +14,17 @@ labels:
 
 ## Opinion on TypeScript
 
-Before beginning to learn JavaScript and TypeScript, I knew languages such as Java, Python, C and C++. I had no prior experience with JavaScript or TypeScript but as I started learning these languages, I actually found that I enjoyed them. The notation for giving types to variables somehow itches my brain in the right way. It looks good to me and it makes sense. 
+I have just started to learn JavaScript and TypeScript in my software engineering class, ICS 314. Before beginning to learn JavaScript and TypeScript, I knew languages such as Java, Python, C and C++. I had no prior experience with JavaScript or TypeScript but as I started learning these languages, I actually found that I enjoyed them. Since I have some experience coding, the introduction came naturally to me. But what intrigued me the most was that the notation for giving types to variables somehow itches my brain in the right way. It looks good to me and it makes sense. 
 
 For example, as shown below:
 
-Fast forward to my first semester of college as a computer science major, I found it to be pretty difficult. While others had taken a programming course in high school or programmed as a hobby on the side, I was walking in blind. Although it was hard, I found it to be pretty interesting. I started to think about the world around me and how anything technology related had to coded by someone. It is fascinating to think about to this day. 
+```cpp
+function example(example1: number, example2: string): string | number {
+}
+```
 
-## Interests in Software Engineering
+Compared to other languages that I have experience in which would use "int example1;", I enjoy TypeScript's notation with the colon. One other big thing that I enjoy about TypeScript is that a function can return more than one type. I learned that very recently and it is extremely helpful. From a software engineering perspective, I definitely do think that TypeScript is a great language. I think that it allows programmers to ahve more options with their code. I also think that some aspects of TypeScript allows for safer and more efficient code.
 
-After learning more about coding in general, being introduced to different programming languages, and observing the ways different professors teach it only cultivated my interest in computer science even more. In terms of software engineering, I am very interested in the topic because being able to make a software application that does whatever you want it to do sounds amazing! 
+## Structure of ICS 314
 
-## In the Future
-
-Now that I am in a software engineering class, I am very excited to learn the necessary skills I need to make my own software. I would like to learn how to become a great designer, programmer, and team player. I am also looking forward to creating my own personal projects which are independent from school. 
-
-know that creating software applications is not an easy thing to do at all. Things that I create will not be completed overnight. But whatever the struggles and circumstances, I will continue to strive to be the best coder I can be.
-
+ICS 314 is an introduction to software engineering class. It follows a pedagogy called, "Athletic Software Engineering". Athletic Software Engineering includes a "high intensity, time-constrained, and often stress-inducing approach to acquiring competency with software engineering skills". With my short experience with the class so far, it definitely meets all of those qualities. However, I actually really do enjoy it. It urges me to think on the spot, forcing my inner computer programmer to come out. "WODs" are workouts of the day which are timed and test our coding proficiency. These put us in high pressure environments and really test our individual abilities. Practice WODs are done in groups and while allowing us to hone in our skills, we are also improving our teamwork skills by working together. This way of teaching is definitely difficult and stressful but the methods really do push all of us to improve as software engineers.

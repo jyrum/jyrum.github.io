@@ -1,21 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "The origin behind why I spend hours looking at a screen all because of one missing semicolon"
+title: "The Start of Something New: TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
 published: true
 labels:
-  - Computer Science
-  - Programming
+  - TypeScript
   - Coding
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Delorean.png">
 
-## Flashback to The Past
+## Opinion on TypeScript
 
-My first encounter with the topic of computer science was in high school when I found out that some of my favorite content creators on social media were computer science majors, enjoyed computer programming, or worked with coding. I thought that was really cool and since I did not know what I wanted to do in college and beyond, I did more research on the topic. After diving into the topic of computer science, I started to get really interested because I love playing video games and technology in general.
+Before beginning to learn JavaScript and TypeScript
 
 Fast forward to my first semester of college as a computer science major, I found it to be pretty difficult. While others had taken a programming course in high school or programmed as a hobby on the side, I was walking in blind. Although it was hard, I found it to be pretty interesting. I started to think about the world around me and how anything technology related had to coded by someone. It is fascinating to think about to this day. 
 

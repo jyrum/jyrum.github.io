@@ -11,39 +11,22 @@ labels:
   - Coding
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Delorean.png">
 
 ## Flashback to The Past
 
-My first encounter with the topic of computer science
-## In the context of programming
+My first encounter with the topic of computer science was in high school when I found out that some of my favorite content creators on social media were computer science majors, enjoyed computer programming, or worked with coding. I thought that was really cool and since I did not know what I wanted to do in college and beyond, I did more research on the topic. After diving into the topic of computer science, I started to get really interested because I love playing video games and technology in general.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Fast forward to my first semester of college as a computer science major, I found it to be pretty difficult. While others had taken a programming course in high school or programmed as a hobby on the side, I was walking in blind. Although it was hard, I found it to be pretty interesting. I started to think about the world around me and how anything technology related had to coded by someone. It is fascinating to think about to this day. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## Interests in Software Engineering
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+After learning more about coding in general, being introduced to different programming languages, and observing the ways different professors teach it only cultivated my interest in computer science even more. In terms of software engineering, I am very interested in the topic because being able to make a software application that does whatever you want it to do sounds amazing! 
 
-## In the context of engineering
+## In the Future
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Now that I am in a software engineering class, I am very excited to learn the necessary skills I need to make my own software. I would like to learn how to become a great designer, programmer, and team player. I am also looking forward to creating my own personal projects which are independent from school. 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+know that creating software applications is not an easy thing to do at all. Things that I create will not be completed overnight. But whatever the struggles and circumstances, I will continue to strive to be the best coder I can be.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.

@@ -43,6 +43,18 @@
   ],
   "work": [
     {
+      "company": "Paradise Leis",
+      "position": "Lei Shop Worker",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Assisted shop owners with packaging orders, creating boxes, and gently handling the leis",
+      "highlights": [
+        "Carefully packaging leis for their journey to their new owners",
+        "Making and tying leis when necessary"
+      ]
+    },
+    {
       "company": "Great Harvest Bread Co.",
       "position": "Bakery Clerk",
       "website": "",
@@ -53,18 +65,6 @@
         "Working the cash register and creating sandwiches for orders",
         "Prepping for the sandwich station and creating doughs and other sweets mixes",
         "Bagging breads, muffins, and cookies to place them on shelves for purchase"
-      ]
-    },
-    {
-      "company": "Paradise Leis",
-      "position": "Lei Shop Worker",
-      "website": "",
-      "startDate": "2024",
-      "endDate": "2024",
-      "summary": "Assisted shop owners with packaging orders, creating boxes, and gently handling the leis",
-      "highlights": [
-        "Carefully packaging leis for their journey to their new owners",
-        "Making and tying leis when necessary"
       ]
     }
   ],

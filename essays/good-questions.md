@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ts.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/questionpic.png">
 
 ## Questions
 

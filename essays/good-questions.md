@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Asking The Right Question"
+title: "The Art of Asking a Good Question"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
 published: true

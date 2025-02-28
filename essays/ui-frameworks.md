@@ -11,7 +11,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="200px" class="rounded pe-4" src="../img/bootstrap.png">
+<img width="200px" class="rounded pe-4" padding-top=20px src="../img/bootstrap.png">
 
 ## My Introduction to HTML and CSS
 

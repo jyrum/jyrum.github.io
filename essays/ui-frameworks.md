@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "The Struggle with UI Frameworks"
+title: "My Struggle with UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: false
+published: true
 labels:
   - HTML
   - CSS
@@ -37,4 +37,12 @@ After about a week of practice with HTML and CSS, I was introduced to UI framewo
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/htmlbrowserhistory.png"> 
 <img width="1000px" class="rounded float-start pe-4" src="../img/bootstrapbrowserhistory.png">
+
+The top picture is a picture of a website that I made about the history behind various browsers. The website is called "A history of browsers". Aside from the information that is included about the browsers, there are also links of various topics where readers can learn more. 
+
+The picture below is my recreation of the exact same website but instead, I used Bootstrap 5 tools to make it. As you can see, there is one major difference between the two websites. In the Bootstrap version, I have a black bar at the top where I can navigate to different sections of the website. Whereas in the original, I just had 4 links at the top. The navigation bar at the top is just one of many other things that you can use Bootstrap for. 
+
+## Conclusion
+
+With my experience with UI frameworks, I think that they are very complicated. It takes a lot of time to know how each and every little thing works. Especially with my small amount of experience with HTML and CSS, I had and still have lots of trouble trying to wrap my head around most concepts. However, I do see the benefits of becoming comfortable with UI frameworks. Although they are complex, they actually make coding in HTML and CSS simpler. 
 

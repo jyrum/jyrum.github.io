@@ -35,8 +35,9 @@ Above are some examples of different tags that are a part of HTML. At first sigh
 
 After about a week of practice with HTML and CSS, I was introduced to UI frameworks. More specifically, I was working with Bootstrap 5. In my opinion, Bootstrap 5 was a lot harder to understand and get my mind around. There is just so much potential that Bootstrap offers and so much more content that I had to learn. But, I saw the reasons behind why to use Bootstrap. It makes websites more user friendly, offers a lot more components for people to use, and also in a lot of ways simplifies what you need to code compared to raw HTML and CSS. However, learning it and becoming comfortable using UI frameworks is a very difficult task. 
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/htmlbrowserhistory.png"> 
-<img width="1000px" class="rounded float-start pe-4" src="../img/bootstrapbrowserhistory.png">
+<img width="1000px" class="rounded float-start pe-5 mt-2" src="../img/htmlbrowserhistory.png"> 
+
+<img width="1000px" class="rounded float-start pe-5 mt-2" src="../img/bootstrapbrowserhistory.png">
 
 The top picture is a picture of a website that I made about the history behind various browsers. The website is called "A history of browsers". Aside from the information that is included about the browsers, there are also links of various topics where readers can learn more. 
 

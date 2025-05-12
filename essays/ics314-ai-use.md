@@ -17,7 +17,9 @@ labels:
 
 Artificial intelligence, the growing superpower among students around the world. AI has taken over the world by storm, especially in recent years. Some students use AI to copy and paste their homework and get free answers without even having to think. But for me personally, I do not believe in that. Although I do use artificial intelligence programs such as ChatGPT and Copilot in my education, I try my best to use AI as a tool for my learning and not like a get out of jail free card. In my software engineering class, ICS 314, I have used AI tools to help me in various different ways.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/out-of-jail-free-card.jpg">
+
+<img width="200px" class="pe-4" src="../img/out-of-jail-free-card.jpg">
+
 
 ## Personal Experience with AI in ICS 314
 

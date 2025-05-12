@@ -11,7 +11,7 @@ labels:
   - Education
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/artificial-intelligence-essay.png">
+<img width="200px" class="pe-4" src="../img/artificial-intelligence-essay.png">
 
 ## Artificial Intelligence in Education
 

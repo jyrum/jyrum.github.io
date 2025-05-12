@@ -27,7 +27,7 @@ In ICS 314, there are many experiences and aspects of the class where students c
 
 1. Experience WODs e.g. E18
     * WOD stands for "Workout of the Day". In ICS 314, WODs are timed exercises used to test our skills on the subject we are learning at the time. The amount of time it takes for us to complete the exercise dictates our performance level for each attempt of a WOD.
-    * Experience WODs are WODs that we do at home. We can attempt the WODs as many times as we like. In my experience, I **I did use AI** to complete some of the experience WODs. I tried my best to do it on my own but especially after going over the time limit on my first attempt, I would ask AI about places where I got stuck. 
+    * Experience WODs are WODs that we do at home. We can attempt the WODs as many times as we like. In my experience, **I did use AI** to complete some of the experience WODs. I tried my best to do it on my own but especially after going over the time limit on my first attempt, I would ask AI about places where I got stuck. 
 2. In-class Practice WODs
     * In-class Practice WODs were used to prep us for the real In-class WODs which were worth a lot of points and we only had 1 attempt to complete the WOD within the time limit. For practice WODs, I found that in some of them I could do it just on my own but for most practice WODs, I found that they were more difficult than the actual WODs so  **I did use AI** in most of them. I used AI to help guide me and also on areas where I got stuck. 
 3. In-class WODs
@@ -51,7 +51,7 @@ In ICS 314, there are many experiences and aspects of the class where students c
 12. Documenting code
     * When documenting code  **I did use AI** to create some comments but only for parts of code that it wrote for me and if I did not understand some of it. I would ask it to put comments and if I did not understand it after the comments, I would ask it to explain what it meant to me. 
 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-    * For quality assurance, I defintiely  **did use AI**. There were many times where I had an error in my code and I asked AI for help. Especially ESLint errors, for those I did not understand majority of them so I had to ask AI on how to fix them in order to solve the errors. 
+    * For quality assurance, I definitely  **did use AI**. There were many times where I had an error in my code and I asked AI for help. Especially ESLint errors, for those I did not understand majority of them so I had to ask AI on how to fix them in order to solve the errors. 
 14. Other uses in ICS 314 not listed
     * Apart from the listed aspects of the class where AI could be used  **I did not use AI**.
 
@@ -81,4 +81,4 @@ In software engineering education, AI can be extremely useful to teachers but mo
 
 ## Conclusion 
 
-Personally I believe that AI is a great tool that can and should be used by both teachers and students. Teachers can use AI in the future to increase the quality of their lessons. Students can use AI to understand topics more and elevate their learning experience in school. However, it is very important to make sure that professors get the message across to students that AI should only be used as a tool. AI for students should only assist their thinking. Like I said earlier, you should not use AI as a get out of jail free card.
+Personally I believe that AI is a great tool that can and should be used by both teachers and students. Teachers can use AI in the future to increase the quality of their lessons. Students can use AI to understand topics more and elevate their learning experience in school. However, it is very important to make sure that professors get the message across to students that AI should only be used as a tool. AI for students should only assist their thinking. Like I said earlier, you should not use AI as a shortcut or an easy way out to save time.

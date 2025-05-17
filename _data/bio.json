@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript" ]
+      "keywords": [ "C", "C++", "Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS", "React", "Node.js"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub"]
+      "keywords": [ "Windows", "Git/GitHub", "VSCode", "ESLint", "PostgreSQL", "Prisma"]
     }
   ],
   "education": [

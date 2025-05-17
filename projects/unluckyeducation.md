@@ -18,7 +18,7 @@ The research done in this proposal can be used as evidence to prove that childre
 
 This project includes a research proposal and an edited YouTube video about my findings. From this project, I learned a lot about my community. I also gained meaningful time management skills because since I did this for my SOC 100 class I took over the summer, I had to finish it within a short amount of time. Most of all, I learned how edit a video and the struggles with editing. 
 
-Research Proposal - https://docs.google.com/document/d/14eFabzt6rV1p2cmt-p5teAMYenNocO_1HJjLPQB6SbI/edit?usp=sharing 
+[Research Proposal: Unlucky Education](https://docs.google.com/document/d/14eFabzt6rV1p2cmt-p5teAMYenNocO_1HJjLPQB6SbI/edit?usp=sharing)
 
-YouTube Video - https://youtu.be/PqQ9tj-l4FI 
+[YouTube: Unlucky Education](https://youtu.be/PqQ9tj-l4FI)
 

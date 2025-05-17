@@ -25,7 +25,7 @@ function example(example1: number, example2: string): string | number {
 
 Compared to other languages that I have experience in which would use "int example1;", I enjoy TypeScript's notation with the colon. One other big thing that I enjoy about TypeScript is that a function can return more than one type. I learned that very recently and it is extremely helpful. 
 
-From a software engineering perspective, I definitely do think that TypeScript is a great language. I think that it allows programmers to ahve more options with their code. I also think that some aspects of TypeScript allows for safer and more efficient code.
+From a software engineering perspective, I definitely do think that TypeScript is a great language. I think that it allows programmers to have more options with their code. I also think that some aspects of TypeScript allows for safer and more efficient code.
 
 ## Structure of ICS 314
 

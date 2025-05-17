@@ -61,7 +61,7 @@ AI has had a large impact on my learning and understanding in ICS 314. Using AI 
 
 ## Practical Applications
 
-AI has been used in many different ways and fields in the real world. Once example where AI is used a ton is in many different videogames. Videogames use AI in a lot of different ways. One major way is creating NPCs that the player can interact with throughout the videogame's world. One game that has exceptional AI with their NPCs that I have experienced is one of my favorite games I have ever played, "Red Dead Redemption 2". The NPCs talk to you and if you aggravate them they may even get mad. 
+AI has been used in many different ways and fields in the real world. Once example where AI is used a ton is in many different video games. Video games use AI in a lot of different ways. One major way is creating NPCs that the player can interact with throughout the video game's world. One game that has exceptional AI with their NPCs that I have experienced is one of my favorite games I have ever played, "Red Dead Redemption 2". The NPCs talk to you and if you aggravate them they may even get mad. 
 
 Another field that uses AI is many different sports. AI can be used in sports for a lot of things. Some examples of these things are statistics, strategy, and also even refereeing. One example of AI being used for refereeing is the VAR (video assistant referee) in soccer. The VAR is used to determine if players were offside, if a goal was really a goal, and many other things. 
 

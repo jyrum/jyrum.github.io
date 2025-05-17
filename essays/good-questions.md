@@ -14,7 +14,7 @@ labels:
 
 ## Questions
 
-Questions are extremely important in all aspects of life. Asking questions is what allows you to connect with people, learn, and improve in the neccessary skills you need in life. Just simply asking questions, for example in a class, is a really good skill to have. Some people may be afraid to ask questions in fear of being looked at as dumb. Many say that there are no stupid questions, so just ask away when you have one.  I agree, if you have a question you should always ask someone for help. Most of the time...
+Questions are extremely important in all aspects of life. Asking questions is what allows you to connect with people, learn, and improve in the necessary skills you need in life. Just simply asking questions, for example in a class, is a really good skill to have. Some people may be afraid to ask questions in fear of being looked at as dumb. Many say that there are no stupid questions, so just ask away when you have one.  I agree, if you have a question you should always ask someone for help. Most of the time...
 
 ## Good Questions
 
@@ -26,7 +26,7 @@ Before asking a question, people should always try and find the answer before as
 
 [Good Question Example](https://stackoverflow.com/questions/79379871/swift-discord-oauth2-redirect-uri-not-supported-by-client)
 
-This link of a question asked by a StackOverflow user on StackOverflow is an example of how a good question should be asked. The user starts off with a good explanation of their problem. They said that they're having trouble accessing a user's username and UID from their IOS app. They provided lots of information on what they was doing and the software that was used. They say they were using the Discord Dev Portal, the OAuth2 URL Generator, Swift code, Xcode, etc. Even in the tags of the post, they provided lots of information on thep problem. All of this allowed another user to look over the problem and help solve it. 
+This link of a question asked by a StackOverflow user on StackOverflow is an example of how a good question should be asked. The user starts off with a good explanation of their problem. They said that they're having trouble accessing a user's username and UID from their IOS app. They provided lots of information on what they was doing and the software that was used. They say they were using the Discord Dev Portal, the OAuth2 URL Generator, Swift code, Xcode, etc. Even in the tags of the post, they provided lots of information on the problem. All of this allowed another user to look over the problem and help solve it. 
 
 Even the user's response to someone showed the smartness of this person. Prior to the answer of his problem, a different user provided a suggestion as a solution. The user which asked the question responded respectfully and politely. They simply said that they already tried that solution and thanked the other person for trying to help. Being polite and respectful can go a long way.
 
